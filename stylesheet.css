@@ -1,0 +1,20 @@
+img {
+	height: 150px;
+	width: 100px;
+	transition:0.2s;
+}
+
+table, td{
+	border:1px solid black;
+}
+table{
+	margin:auto;
+	background-color: #99E7E9;
+}
+td, img{
+	border-radius: 10px;
+}
+td:hover{
+	border:2px solid blue;
+	transition:0.2s;
+}
